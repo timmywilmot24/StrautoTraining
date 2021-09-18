@@ -24,14 +24,6 @@ export default function App() {
   );
 }
 
-const Example3 = () => {
-  return (
-    <View>
-      <Text style={styles.header}>Example 3</Text>
-    </View>
-  );
-};
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
